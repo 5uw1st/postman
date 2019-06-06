@@ -1,0 +1,8 @@
+-i https://pypi.douban.com/simple/ --trusted-host=pypi.douban.com/simple
+flask
+flask_mongoengine
+celery
+redis
+pycrypto
+pkcs7
+flower
